@@ -1,5 +1,5 @@
 
-## About CrownStack Test Project
+## About Crownstack Test Project
 
 It is an e-commerce based test project, with a demand for REST APIs, to display categories, products based on a category, display all products, authentication system,
 cart system for authenticated user. In this laravel project, some conventional and non-conventional methods have been used which are listed as:
